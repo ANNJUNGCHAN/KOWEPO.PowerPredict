@@ -3,7 +3,7 @@
 ## 개요
 * 본 대회는 한국전자기술연구원, 한국생산기술연구원이 주최/주관하고, 삼성SDS(주), 한국서부발전(주), (주)아미텍이 후원하는 대회입니다.
 * KETI의 연구개발 및 한국서부발전(주)의 신재생 에너지 발전 실증 데이터에 기반한 인공지능 경진대회 운영을 통해 지속 가능한 인공지능 에너지 활용 모델 및 실용 아이디어를 도출하고자 하는 대회였습니다.
-* 대회는 Track 1과 Track 2로 나누어져 있었고, 저희 팀은 Track 1만 참가하였습니다.
+* 대회는 Track 1과 Track 2로 나누어져 있었고, 저희 팀은 Track 1만 참가하였습니다.(팀명 : AIVLE)
 
 ## Track 1 : 에너지 인공지능(Energy AI) 경진대회
 * 본 대회는 리더보드를 통하여 정량평가로 진행되었스빈다.
@@ -21,9 +21,6 @@
 ## 프로젝트 결과
 ![result](https://user-images.githubusercontent.com/89781598/189193337-bbb43766-7221-4daa-af4c-3eb80bcd83be.png)
 - AIVLE SCHOOL 2기 AI과정 169명중 1등
-<p align="center">
-  <a href="https://www.kaggle.com/competitions/aivle-school-2nd-miniproject-competition/leaderboard"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/competitions/aivle-school-2nd-miniproject-competition/leaderboard"/></a>&nbsp
-</p>
 
 ## 프로젝트 설명
 <h3 align="center">🪄 프로젝트에 대한 설명은 아래의 네이버 블로그를 참고해주세요! 🪄</h3>
