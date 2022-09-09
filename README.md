@@ -5,8 +5,27 @@
 * KETI의 연구개발 및 한국서부발전(주)의 신재생 에너지 발전 실증 데이터에 기반한 인공지능 경진대회 운영을 통해 지속 가능한 인공지능 에너지 활용 모델 및 실용 아이디어를 도출하고자 하는 대회였습니다.
 * 대회는 Track 1과 Track 2로 나누어져 있었고, 저희 팀은 Track 1만 참가하였습니다.
 
-## Track 1
-* 
+## Track 1 : 에너지 인공지능(Energy AI) 경진대회
+* 본 대회는 리더보드를 통하여 정량평가로 진행되었스빈다.
+* 재생에너지 발전량을 예측하는 문제입니다.
+* 전력 거래소는 재생에너지 확대에 따른 출력 변동성 대응을 위해 재생에너지 발전량 예측제도를 도입하였다.
+* 재생에너지 발전량 예측제도란, 재생에너지 발전량을 하루 전에 미리 예측하여 제출하고, 당일날 일정 오차율 이내로 이행할 경우 정산금을 지급하는 제도이다.
+* 재생에너지 발전량 예측제도로 인해, 발전 사업자들의 정확한 재생 에너지 예측 기술에 대한 필요성이 증가하게 되었으며, 이를 잘 예측하는 모델을 개발해야한다.
+
+## 개발환경
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Brightics Studio-1428A0?style=flat-square&logo=Samsung&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <br>
+    <img src="https://img.shields.io/badge/-statsmodel-green"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-itertools-black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-catboost-yellow"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-byes_opt-blueviolet"/></a>&nbsp
+    
+</p
 
 ## 프로젝트 결과
 ![result](https://user-images.githubusercontent.com/89781598/189193337-bbb43766-7221-4daa-af4c-3eb80bcd83be.png)
