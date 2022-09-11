@@ -26,37 +26,26 @@
 - 2등, 한국서부발전(주)시장상
 
 ## 프로젝트 설명
-<h3 align="center">🪄 추후 추가될 예정입니다! 🪄</h3>
+<h3 align="center">🪄 해당 프로젝트는 3개의모델로 구성되어 있습니다! 🪄</h3>
 
-## 패키지 사용
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
-  <br>
-    <img src="https://img.shields.io/badge/-statsmodel-green"/></a>&nbsp
-    <img src="https://img.shields.io/badge/-itertools-black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/-catboost-yellow"/></a>&nbsp
-    <img src="https://img.shields.io/badge/-byes_opt-blueviolet"/></a>&nbsp
-    
-</p>
 
 ## 파일 구조
 ```
-📦KT.BAD_WEB
- ┣ 📂CSV
- ┃ ┣ 📜cat_esb_best2.csv
- ┃ ┣ 📜CONFIG_RESULT.csv
- ┃ ┗ 📜logistic_result.csv
- ┣ 📂PT
- ┃ ┣ 📜부산경남_안중찬.pdf
- ┃ ┗ 📜부산경남_안중찬.pptx
- ┣ 📜01.EDA.ipynb
- ┣ 📜02.CONFIG.ipynb
- ┣ 📜03.Bayesian-Optimization.ipynb
- ┗ 📜04.SUBMIT.ipynb
+📦KOWEPO.PowerPredict
+ ┣ 📂Crawling
+ ┃ ┣ 📜Code.ipynb
+ ┃ ┗ 📜index.xlsx
+ ┣ 📂MODEL
+ ┃ ┣ 📂Best Model
+ ┃ ┃ ┗ 📜Best Model.json
+ ┃ ┣ 📂Data Preprocessing for solar
+ ┃ ┃ ┗ 📜Data Preprocessing for Solar.json
+ ┃ ┣ 📂Solar Power Prediction
+ ┃ ┃ ┗ 📜Solar Power Prediction.json
+ ┃ ┗ 📂Wind Power Prediction
+ ┃ ┃ ┗ 📜Wind Power Prediction.json
+ ┣ 📜Code Explanation.docx
+ ┗ 📜PT.pptx
 ```
 
 ## 파일 설명
