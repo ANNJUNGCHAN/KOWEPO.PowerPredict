@@ -30,11 +30,9 @@
 
 ![슬라이드4](https://user-images.githubusercontent.com/89781598/189539548-59d43959-ce0f-4185-b209-25c37fa67c11.JPG)
 
-<p align = "center">
-<p> 각각의 모델에 대한 설명은 각각의 모델에 해당하는 폴더(Data Preprocessing for solar, Solar Power Prediction, Wind Power Prediction)의 readme를 참고해주세요! </p>
-
-<p> 크롤링에 대한 내용 또한 Data Preprocessing에 담겨져 있으니 참고 부탁드리겠습니다! </p>
-</p>
+1. 각각의 모델에 대한 설명은 각각의 모델에 해당하는 폴더의 readme를 참고해주세요!<br>
+2. 각각의 모델에 해당하는 폴더는 Data Preprocessing for solar, Solar Power Prediction, Wind Power Prediction입니다!
+3. 크롤링에 대한 내용 또한 Data Preprocessing에 담겨져 있으니 참고 부탁드리겠습니다!
 
 ## 파일 구조
 ```
