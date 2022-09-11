@@ -27,7 +27,10 @@
 
 ## 프로젝트 설명
 <h3 align="center">🪄 해당 프로젝트는 3개의모델로 구성되어 있습니다! 🪄</h3>
-
+![슬라이드4](https://user-images.githubusercontent.com/89781598/189539548-59d43959-ce0f-4185-b209-25c37fa67c11.JPG)
+<p align = "center">
+각각의 모델에 대한 설명은 각각의 모델에 해당하는 폴더(Data Preprocessing for solar, Solar Power Prediction, Wind Power Prediction)의 readme를 참고해주세요!
+</p>
 
 ## 파일 구조
 ```
