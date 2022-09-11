@@ -31,7 +31,9 @@
 ![슬라이드4](https://user-images.githubusercontent.com/89781598/189539548-59d43959-ce0f-4185-b209-25c37fa67c11.JPG)
 
 <p align = "center">
-각각의 모델에 대한 설명은 각각의 모델에 해당하는 폴더(Data Preprocessing for solar, Solar Power Prediction, Wind Power Prediction)의 readme를 참고해주세요!
+<p> 각각의 모델에 대한 설명은 각각의 모델에 해당하는 폴더(Data Preprocessing for solar, Solar Power Prediction, Wind Power Prediction)의 readme를 참고해주세요! </p>
+
+<p> 크롤링에 대한 내용 또한 Data Preprocessing에 담겨져 있으니 참고 부탁드리겠습니다! </p>
 </p>
 
 ## 파일 구조
@@ -54,22 +56,25 @@
 ```
 
 ## 파일 설명
-- EDA.ipynb
-    - EDA에 관련된 코드들이 담겨져있습니다.
-- CONFIG.ipynb
-    - CONFIG To Select에 대한 코드가 담겨져있습니다.(자세한 내용은 위의 불로그 참조)
-- Bayesian-Optimization.ipynb
-    - Bayesian-Optimization으로 하이퍼 파라미터 튜닝을 한 코드들이 담겨져 있습니다.
-- SUBMIT.ipynb
-    - 최종 제출된 모델의 코드가 담겨져 있습니다.
-- 부산경남_안중찬.pdf,pptx
-    - 모델에 대한 설명이 담겨져 있습니다. AIVLE SCHOOL에서 프레젠테이션을 진행하였습니다.
-- cat_esb_best2.csv
-    - 성능이 가장 좋은 모델이 예측한 값입니다.
-- CONFIG_RESULT.csv
-    - Config to Select의 결과입니다.
-- logistic_result.csv
-    - logistic 검정의 결과입니다.
+- Code.ipynb
+    - 기상청 API를 크롤링 하는 코드입니다.
+- index.xlsx
+    - 기상청 API를 크롤링하면, 열 부분이 해석할 수 없는 영어 코드명으로 나옵니다. 이를 알아볼 수 있는 한글로 변환해주기 위한 정보가 담긴 엑셀 파일입니다.
+- Best Model.json
+    - 해당 프로젝트에서 이용된 모든 모델이 담겨져 있습니다.
+- Data Preprocessing for Solar.json
+    - 일조량, 일사량, 전운량을 예측하기 위한 모델이 담겨져 있습니다.
+- Solar Power Prediction.json
+    - 태양광 발전량을 예측하기 위한 모델이 담겨져 있습니다.
+- Wind Power Prediction.json
+    - 풍력 발전량을 예측하기 위한 모델이 담겨져 있습니다.
+- Code Explanation.docx
+    - 코드를 설명하기 위한 워드 파일입니다.
+- PT.pptx
+    - PT를 위한 ppt 파일입니다. 해당 PT는 9월 15일 14시 슈피겐홀에서 진행하였습니다.
+
+## 참고사항
+- 데이터의 경우 대회 직후 파기해야 하므로, 깃허브에 올릴 수 없는 점 양해부탁드립니다.
 
 ## 문의사항
 * email : ajc227ung@gmail.com
