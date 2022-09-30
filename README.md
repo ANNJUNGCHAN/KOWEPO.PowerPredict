@@ -22,7 +22,7 @@
 - 삼성 SDS의 Brightics Studio 플랫폼 사용이 대회의 원칙
 
 ## 프로젝트 결과
-![image](https://user-images.githubusercontent.com/89781598/189381041-bfd51ac9-5c10-49f9-9b48-a3dba3f9a2fc.png)
+![KakaoTalk_20220923_122630075](https://user-images.githubusercontent.com/89781598/193316073-a3aae336-79a8-44a6-9fa8-4394aa00db78.jpg)
 - 2등, 한국서부발전(주)사장상
 
 ## 프로젝트 설명
