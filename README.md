@@ -27,8 +27,8 @@
 
 ## 뉴스기사
 
-https://blog.naver.com/iamkowepo/222879308481
-https://n.news.naver.com/mnews/article/009/0005018070?sid=105
+한국 서부 발전 : https://blog.naver.com/iamkowepo/222879308481 <br>
+매일 경제 : https://n.news.naver.com/mnews/article/009/0005018070?sid=105
 
 ## 프로젝트 설명
 <h3 align="center">🪄 해당 프로젝트는 3개의모델로 구성되어 있습니다! 🪄</h3>
