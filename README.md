@@ -25,6 +25,11 @@
 ![KakaoTalk_20220923_122630075](https://user-images.githubusercontent.com/89781598/193316073-a3aae336-79a8-44a6-9fa8-4394aa00db78.jpg)
 - 2등, 한국서부발전(주)사장상
 
+## 뉴스기사
+
+https://blog.naver.com/iamkowepo/222879308481
+https://n.news.naver.com/mnews/article/009/0005018070?sid=105
+
 ## 프로젝트 설명
 <h3 align="center">🪄 해당 프로젝트는 3개의모델로 구성되어 있습니다! 🪄</h3>
 
